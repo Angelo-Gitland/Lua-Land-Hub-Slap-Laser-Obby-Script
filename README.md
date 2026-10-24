@@ -1,1 +1,0 @@
-# Lua-Land-Hub-Slap-Laser-Obby-Script
